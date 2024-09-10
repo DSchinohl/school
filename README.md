@@ -1,2 +1,2 @@
 # school
-school_projects
+Here's some school projects i have just done :) 
